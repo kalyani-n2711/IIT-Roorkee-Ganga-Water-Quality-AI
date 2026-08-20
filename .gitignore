@@ -1,0 +1,15 @@
+.gradle/
+build/
+out/
+.idea/
+.vscode/
+*.iml
+.env
+*.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+node_modules/
+*.log
